@@ -107,6 +107,34 @@ export default function EngineeringSolutions() {
         ))}
       </div>
 
+
+      {/* Portfolio PDF */}
+      <div className="max-w-3xl mx-auto mb-16">
+        <h2 className="text-2xl font-bold text-center mb-4 text-neon-orange mt-20">Portfolio Design Macchina</h2>
+        <div className="flex flex-col md:flex-row items-center gap-6 bg-dark-surface rounded-xl p-6 border border-white/10 shadow-lg">
+          <iframe
+            src="/macchina-design-portfolio.pdf"
+            title="Portfolio Design Macchina"
+            className="w-full md:w-1/2 h-80 rounded border border-white/10"
+            loading="lazy"
+          />
+          <div className="flex-1 flex flex-col items-center md:items-start">
+            <h3 className="text-lg font-semibold text-neon-orange mb-2">Scarica o visualizza il portfolio completo</h3>
+            <p className="text-gray-300 text-sm mb-4 text-center md:text-left">
+              Scopri alcuni progetti di design e ingegnerizzazione realizzati da Dream3D. Il PDF contiene immagini, descrizioni e dettagli tecnici delle nostre soluzioni.
+            </p>
+            <a
+              href="/macchina-design-portfolio.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block px-5 py-2 bg-neon-orange text-black font-bold rounded hover:bg-neon-fire transition-colors"
+            >
+              Visualizza/Scarica PDF
+            </a>
+          </div>
+        </div>
+      </div>
+
       {/* Portfolio Modelli */}
       <h2 className="text-2xl font-bold text-center mb-4 text-neon-orange mt-20">Portfolio Modelli 3D</h2>
       <div className="grid md:grid-cols-3 gap-8 mb-16">
