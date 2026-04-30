@@ -1,0 +1,203 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "commissions": "Comisiones",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "quote": "Solicitar Presupuesto"
+  },
+  "home": {
+    "hero": {
+      "title": "DAMOS FORMA",
+      "subtitle": "A TUS IDEAS",
+      "description": "Impresión 3D de alta calidad en PLA y Resina. Desde el prototipado hasta la producción final.",
+      "cta_products": "Descubre Productos",
+      "cta_commission": "Proyecto a Medida"
+    },
+    "categories": {
+      "title": "Nuestras",
+      "subtitle": "Soluciones",
+      "pla": {
+        "title": "PLA Ecológico",
+        "desc": "Bioplástico versátil y resistente para cada uso."
+      },
+      "resin": {
+        "title": "Resina HD",
+        "desc": "Detalles increíbles para miniaturas y joyas."
+      },
+      "commission": {
+        "title": "Por Comisión",
+        "desc": "Realizamos tu proyecto desde el archivo STL."
+      }
+    },
+    "features": {
+      "title": "Por Qué Elegirnos",
+      "rapid_prod": {
+        "title": "Producción Rápida",
+        "desc": "Del archivo al objeto en tiempo récord, sin comprometer la calidad."
+      },
+      "quality": {
+        "title": "Calidad Artesanal",
+        "desc": "Cada impresión es revisada manualmente para garantizar la perfección."
+      },
+      "tech": {
+        "title": "Tecnología Avanzada",
+        "desc": "Utilizamos las mejores impresoras 3D para resultados precisos y rápidos."
+      },
+      "global_ship": {
+        "title": "Envíos Globales",
+        "desc": "Entregas seguras y rastreadas en todo el mundo."
+      }
+    },
+    "cta": {
+      "title_part1": "¿Tienes una idea pero no sabes cómo",
+      "title_part2": "realizarla?",
+      "desc": "Transformamos tu imaginación en objetos reales con impresión 3D de",
+      "desc_highlight": "altísima calidad",
+      "button": "Solicitar Presupuesto ✨"
+    }
+  },
+  "footer": {
+    "description": "Damos forma a tus ideas con la mejor tecnología de impresión 3D. PLA ecológico y Resina de alta definición.",
+    "resources": "Recursos",
+    "legal": "Legal",
+    "contacts": "Contactos",
+    "rights": "Todos los derechos reservados.",
+    "shipping": "🚚 Envío Mundial 5-10 días"
+  },
+  "common": {
+    "back": "Atrás",
+    "back_to_shop": "Volver a la Tienda",
+    "loading": "Cargando...",
+    "share": "Compartir",
+    "details": "Detalles",
+    "photo": "Foto",
+    "select_variant": "Seleccionar Variante",
+    "add_to_cart": "Añadir al Carrito",
+    "adding": "Añadiendo...",
+    "not_available": "No Disponible",
+    "product_not_found": "Producto no encontrado",
+    "product_not_found_desc": "El producto que buscas no existe o ha sido eliminado.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "blog": "Blog",
+    "sold_out": "Agotado",
+    "view_product": "Ver Producto"
+  },
+  "shop": {
+    "title": "Tienda Dream3D",
+    "subtitle": "Tu destino para modelos 3D únicos, impresos con precisión y listos para tu colección.",
+    "search_placeholder": "Buscar...",
+    "filter_all": "Todos",
+    "filter_pla": "PLA",
+    "filter_resin": "Resina",
+    "no_products": "No se encontraron productos",
+    "coming_soon": "¡Próximamente!",
+    "no_products_desc": "Intenta buscar otra cosa o cambia los filtros.",
+    "coming_soon_desc": "Estamos trabajando duro para llenar la tienda con modelos 3D increíbles. ¡Vuelve pronto!",
+    "request_commission": "Solicitar una Comisión Personalizada"
+  },
+  "commission": {
+    "title": "Da Vida a Tus Ideas",
+    "subtitle": "Sube un archivo 3D existente para previsualizarlo, o contáctanos directamente para un presupuesto personalizado.",
+    "upload_title": "Prueba tu archivo 3D",
+    "upload_desc": "Sube un archivo .glb o .gltf para verlo en el visor de al lado.",
+    "quote_title": "Solicitar Presupuesto",
+    "name": "Nombre",
+    "name_placeholder": "Tu nombre",
+    "email": "Email",
+    "email_placeholder": "tu@email.com",
+    "desc": "Descripción del Proyecto",
+    "desc_placeholder": "Describe qué te gustaría imprimir...",
+    "send": "Enviar Solicitud",
+    "sending": "Enviando...",
+    "success_title": "Gracias",
+    "success_msg": "Tu solicitud de presupuesto ha sido enviada con éxito.",
+    "error_msg": "Hubo un problema al enviar. Inténtalo de nuevo más tarde.",
+    "error_conn": "Error de conexión.",
+    "fill_all": "Por favor completa todos los campos.",
+    "viewer": {
+      "loading": "Cargando modelo...",
+      "error_load": "No se pudo cargar el archivo 3D.",
+      "upload_here": "Sube tu archivo aquí",
+      "drag_drop": "Arrastra o selecciona un archivo .glb o .gltf para verlo",
+      "ai_generated": "GENERADO POR IA",
+      "controls": "Arrastra para rotar • Desplázate para hacer zoom"
+    },
+    "payment_title": "Área de Pagos",
+    "payment_desc": "¿Has recibido un presupuesto? Completa el pago del depósito o saldo de forma segura y rápida.",
+    "pay_now": "Proceder al Pago Seguro",
+    "payment_amount": "IMPORTE A PAGAR",
+    "payment_success_title": "¡Pago Recibido!",
+    "payment_success_desc": "¡Gracias! La transacción fue exitosa. Hemos enviado un recibo a tu correo electrónico.",
+    "new_payment": "Hacer otro pago"
+  },
+  "product": {
+    "shipping_fast": "Envío Rápido",
+    "quality_guaranteed": "Calidad Garantizada",
+    "support_247": "Soporte 24/7",
+    "easy_return": "Devolución Fácil"
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty_title": "Tu carrito está vacío",
+    "empty_desc": "Parece que aún no has añadido nada.",
+    "start_shopping": "Empezar a Comprar",
+    "items": "artículos",
+    "summary_title": "Resumen del Pedido",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "shipping_calculated": "(Calculado al pagar)",
+    "total": "Total",
+    "checkout": "Proceder al Pago Seguro",
+    "secure_payment": "Pago seguro gestionado por Shopify"
+  },
+  "about": {
+    "title": "Quién es",
+    "desc1": "Somos un equipo de apasionados makers, ingenieros y diseñadores con una misión común: hacer que la impresión 3D sea accesible y de alta calidad para todos.",
+    "desc2": "Nacidos en 2024, transformamos nuestra pasión en una profesión, especializándonos en la creación de objetos únicos, prototipos funcionales y miniaturas coleccionables. Utilizamos solo materiales premium y las mejores tecnologías disponibles en el mercado.",
+    "experience": "Años de Experiencia",
+    "clients": "Clientes Satisfechos"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "email": "Email",
+    "email_desc": "Para información general",
+    "phone": "Teléfono",
+    "phone_desc": "Lun-Vie, 9:00 - 18:00",
+    "location": "Ubicación",
+    "location_desc": "Visítanos (con cita previa)",
+    "form_title": "Envíanos un mensaje",
+    "name": "Nombre",
+    "name_placeholder": "Juan Pérez",
+    "email_placeholder": "juan@email.com",
+    "message": "Mensaje",
+    "message_placeholder": "Escribe tu mensaje aquí...",
+    "submit": "Enviar Mensaje"
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "intro": "Esta política describe cómo recopilamos, usamos y compartimos sus datos personales cuando visita o realiza una compra en Dream3D.",
+    "section1_title": "1. Información personal que recopilamos",
+    "section1_content": "Cuando visita el Sitio, recopilamos automáticamente cierta información sobre su dispositivo, incluida información sobre su navegador web, dirección IP, zona horaria y algunas de las cookies instaladas en su dispositivo.",
+    "section2_title": "2. ¿Cómo usamos su información personal?",
+    "section2_content": "Usamos la Información del pedido que recopilamos generalmente para cumplir con cualquier pedido realizado a través del Sitio (incluido el procesamiento de su información de pago, la organización del envío y el envío de facturas y/o confirmaciones de pedidos).",
+    "section3_title": "3. Compartir su información personal",
+    "section3_content": "Compartimos su Información personal con terceros para ayudarnos a usar su Información personal, como se describe anteriormente. Por ejemplo, usamos Shopify para impulsar nuestra tienda en línea.",
+    "contact_title": "Contáctenos",
+    "contact_content": "Para obtener más información sobre nuestras prácticas de privacidad, si tiene preguntas o si desea presentar una queja, contáctenos por correo electrónico a areainfodream3d@gmail.com."
+  },
+  "terms": {
+    "title": "Términos y Condiciones",
+    "intro": "Este sitio web es operado por Dream3D. En todo el sitio, los términos \"nosotros\", \"nos\" y \"nuestro\" se refieren a Dream3D.",
+    "section1_title": "1. Términos de la tienda en línea",
+    "section1_content": "Al aceptar estos Términos de servicio, usted declara que tiene al menos la mayoría de edad en su estado o provincia de residencia.",
+    "section2_title": "2. Condiciones generales",
+    "section2_content": "Nos reservamos el derecho de rechazar el servicio a cualquier persona por cualquier motivo en cualquier momento.",
+    "section3_title": "3. Modificaciones al servicio y precios",
+    "section3_content": "Los precios de nuestros productos están sujetos a cambios sin previo aviso. Nos reservamos el derecho en cualquier momento de modificar o interrumpir el Servicio (or cualquier parte o contenido del mismo) sin previo aviso en cualquier momento.",
+    "contact_title": "Información de contacto",
+    "contact_content": "Las preguntas sobre los Términos de servicio deben enviarse a nosotros a areainfodream3d@gmail.com."
+  }
+}

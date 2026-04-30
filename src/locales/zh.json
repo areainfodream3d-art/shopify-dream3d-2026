@@ -1,0 +1,203 @@
+{
+  "navbar": {
+    "home": "首页",
+    "shop": "商店",
+    "commissions": "定制",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "quote": "询价"
+  },
+  "home": {
+    "hero": {
+      "title": "我们塑造",
+      "subtitle": "您的创意",
+      "description": "高质量 PLA 和树脂 3D 打印。从原型设计到最终生产。",
+      "cta_products": "发现产品",
+      "cta_commission": "定制项目"
+    },
+    "categories": {
+      "title": "我们的",
+      "subtitle": "解决方案",
+      "pla": {
+        "title": "环保 PLA",
+        "desc": "适用于各种用途的多功能耐用生物塑料。"
+      },
+      "resin": {
+        "title": "高清树脂",
+        "desc": "微缩模型和珠宝的惊人细节。"
+      },
+      "commission": {
+        "title": "按需定制",
+        "desc": "我们根据 STL 文件实现您的项目。"
+      }
+    },
+    "features": {
+      "title": "为什么选择我们",
+      "rapid_prod": {
+        "title": "快速生产",
+        "desc": "从文件到实物创纪录的时间，不妥协质量。"
+      },
+      "quality": {
+        "title": "工匠品质",
+        "desc": "每次打印都经过人工检查，以确保完美。"
+      },
+      "tech": {
+        "title": "先进技术",
+        "desc": "我们使用最好的 3D 打印机以获得精确快速的结果。"
+      },
+      "global_ship": {
+        "title": "全球发货",
+        "desc": "安全且可追踪的全球交付。"
+      }
+    },
+    "cta": {
+      "title_part1": "有一个想法但不知道如何",
+      "title_part2": "实现它？",
+      "desc": "我们通过最高质量的 3D 打印将您的想象力转化为",
+      "desc_highlight": "真实物体",
+      "button": "请求报价 ✨"
+    }
+  },
+  "footer": {
+    "description": "我们用最好的 3D 打印技术塑造您的想法。环保 PLA 和高清树脂。",
+    "resources": "资源",
+    "legal": "法律",
+    "contacts": "联系方式",
+    "rights": "版权所有。",
+    "shipping": "🚚 全球发货 5-10 天"
+  },
+  "common": {
+    "back": "返回",
+    "back_to_shop": "返回商店",
+    "loading": "加载中...",
+    "share": "分享",
+    "details": "详情",
+    "photo": "照片",
+    "select_variant": "选择变体",
+    "add_to_cart": "加入购物车",
+    "adding": "添加中...",
+    "not_available": "不可用",
+    "product_not_found": "未找到产品",
+    "product_not_found_desc": "您寻找的产品不存在或已被移除。",
+    "privacy": "隐私政策",
+    "terms": "条款和条件",
+    "blog": "博客",
+    "sold_out": "售罄",
+    "view_product": "查看产品"
+  },
+  "shop": {
+    "title": "Dream3D 商店",
+    "subtitle": "您寻找独特 3D 模型、精确打印并准备好收藏的目的地。",
+    "search_placeholder": "搜索...",
+    "filter_all": "全部",
+    "filter_pla": "PLA",
+    "filter_resin": "树脂",
+    "no_products": "未找到产品",
+    "coming_soon": "即将推出！",
+    "no_products_desc": "尝试搜索其他内容或更改过滤器。",
+    "coming_soon_desc": "我们正在努力用令人难以置信的 3D 模型填充商店。请稍后再来！",
+    "request_commission": "请求个性化定制"
+  },
+  "commission": {
+    "title": "让您的想法成为现实",
+    "subtitle": "上传现有的 3D 文件进行预览，或直接联系我们获取个性化报价。",
+    "upload_title": "测试您的 3D 文件",
+    "upload_desc": "上传 .glb 或 .gltf 文件以在旁边的查看器中查看。",
+    "quote_title": "请求报价",
+    "name": "姓名",
+    "name_placeholder": "您的姓名",
+    "email": "电子邮件",
+    "email_placeholder": "your@email.com",
+    "desc": "项目描述",
+    "desc_placeholder": "描述您想打印的内容...",
+    "send": "发送请求",
+    "sending": "发送中...",
+    "success_title": "谢谢",
+    "success_msg": "您的报价请求已成功发送。",
+    "error_msg": "发送时出现问题。请稍后再试。",
+    "error_conn": "连接错误。",
+    "fill_all": "请填写所有字段。",
+    "viewer": {
+      "loading": "加载模型...",
+      "error_load": "无法加载 3D 文件。",
+      "upload_here": "在此处上传您的文件",
+      "drag_drop": "拖动或选择 .glb 或 .gltf 文件以查看",
+      "ai_generated": "AI 生成",
+      "controls": "拖动旋转 • 滚动缩放"
+    },
+    "payment_title": "支付区域",
+    "payment_desc": "收到报价了吗？安全快速地完成定金或余款支付。",
+    "pay_now": "进行安全支付",
+    "payment_amount": "支付金额",
+    "payment_success_title": "收到付款！",
+    "payment_success_desc": "谢谢！交易成功。我们已将收据发送至您的电子邮箱。",
+    "new_payment": "进行另一笔支付"
+  },
+  "product": {
+    "shipping_fast": "快速发货",
+    "quality_guaranteed": "质量保证",
+    "support_247": "24/7 支持",
+    "easy_return": "轻松退货"
+  },
+  "cart": {
+    "title": "您的购物车",
+    "empty_title": "您的购物车是空的",
+    "empty_desc": "看来您还没有添加任何东西。",
+    "start_shopping": "开始购物",
+    "items": "件商品",
+    "summary_title": "订单摘要",
+    "subtotal": "小计",
+    "shipping": "运费",
+    "shipping_calculated": "(结账时计算)",
+    "total": "总计",
+    "checkout": "前往安全结账",
+    "secure_payment": "由 Shopify 处理的安全付款"
+  },
+  "about": {
+    "title": "关于我们",
+    "desc1": "我们是一群充满激情的创客、工程师和设计师，有着共同的使命：让所有人都能享受到高质量的 3D 打印。",
+    "desc2": "诞生于 2024 年，我们将激情转化为职业，专注于创造独特的物品、功能原型和可收藏的微缩模型。我们只使用优质材料和市场上最好的技术。",
+    "experience": "年经验",
+    "clients": "满意客户"
+  },
+  "contact": {
+    "title": "联系我们",
+    "email": "电子邮件",
+    "email_desc": "一般咨询",
+    "phone": "电话",
+    "phone_desc": "周一至周五, 9:00 - 18:00",
+    "location": "地址",
+    "location_desc": "拜访我们 (需预约)",
+    "form_title": "给我们留言",
+    "name": "姓名",
+    "name_placeholder": "张三",
+    "email_placeholder": "zhangsan@email.com",
+    "message": "留言",
+    "message_placeholder": "在这里写下您的留言...",
+    "submit": "发送留言"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "intro": "本政策描述了当您访问 Dream3D 或在 Dream3D 上购物时，我们如何收集、使用和共享您的个人数据。",
+    "section1_title": "1. 我们收集的个人信息",
+    "section1_content": "当您访问本网站时，我们会自动收集有关您设备的某些信息，包括有关您的网络浏览器、IP 地址、时区和安装在您设备上的某些 cookie 的信息。",
+    "section2_title": "2. 我们如何使用您的个人信息？",
+    "section2_content": "我们通常使用收集到的订单信息来履行通过本网站下的任何订单（包括处理您的付款信息、安排运输以及为您提供发票和/或订单确认）。",
+    "section3_title": "3. 共享您的个人信息",
+    "section3_content": "我们会与第三方共享您的个人信息，以帮助我们使用您的个人信息，如上所述。例如，我们使用 Shopify 来为我们的在线商店提供支持。",
+    "contact_title": "联系我们",
+    "contact_content": "有关我们隐私惯例的更多信息，如果您有疑问，或者如果您想提出投诉，请通过电子邮件 areainfodream3d@gmail.com 与我们联系。"
+  },
+  "terms": {
+    "title": "条款和条件",
+    "intro": "本网站由 Dream3D 运营。在整个网站中，术语“我们”、“我们的”是指 Dream3D。",
+    "section1_title": "1. 在线商店条款",
+    "section1_content": "通过同意这些服务条款，即表示您已达到您居住的州或省的法定成年年龄。",
+    "section2_title": "2. 一般条件",
+    "section2_content": "我们保留随时以任何理由拒绝向任何人提供服务的权利。",
+    "section3_title": "3. 服务和价格的修改",
+    "section3_content": "我们的产品价格如有更改，恕不另行通知。我们保留随时修改或终止服务（或其任何部分或内容）的权利，恕不另行通知。",
+    "contact_title": "联系信息",
+    "contact_content": "有关服务条款的问题应发送至 areainfodream3d@gmail.com。"
+  }
+}

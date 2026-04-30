@@ -1,0 +1,203 @@
+{
+  "navbar": {
+    "home": "Home",
+    "shop": "Shop",
+    "commissions": "Commissions",
+    "about": "About Us",
+    "contact": "Contact",
+    "quote": "Request Quote"
+  },
+  "home": {
+    "hero": {
+      "title": "WE SHAPE",
+      "subtitle": "YOUR IDEAS",
+      "description": "High-quality 3D printing in PLA and Resin. From prototyping to final production.",
+      "cta_products": "Discover Products",
+      "cta_commission": "Custom Project"
+    },
+    "categories": {
+      "title": "Our",
+      "subtitle": "Solutions",
+      "pla": {
+        "title": "Eco PLA",
+        "desc": "Versatile and resistant bioplastic for every use."
+      },
+      "resin": {
+        "title": "HD Resin",
+        "desc": "Incredible details for miniatures and jewelry."
+      },
+      "commission": {
+        "title": "On Commission",
+        "desc": "We realize your project from the STL file."
+      }
+    },
+    "features": {
+      "title": "Why Choose",
+      "rapid_prod": {
+        "title": "Rapid Production",
+        "desc": "From file to object in record time, without compromising quality."
+      },
+      "quality": {
+        "title": "Artisan Quality",
+        "desc": "Every print is manually checked to guarantee perfection."
+      },
+      "tech": {
+        "title": "Advanced Technology",
+        "desc": "We use the best 3D printers for precise and fast results."
+      },
+      "global_ship": {
+        "title": "Global Shipping",
+        "desc": "Secure and tracked deliveries worldwide."
+      }
+    },
+    "cta": {
+      "title_part1": "Have an idea but don't know how to",
+      "title_part2": "realize it?",
+      "desc": "We transform your imagination into real objects with 3D printing of",
+      "desc_highlight": "highest quality",
+      "button": "Request a Quote ✨"
+    }
+  },
+  "footer": {
+    "description": "We shape your ideas with the best 3D printing technology. Eco PLA and High Definition Resin.",
+    "resources": "Resources",
+    "legal": "Legal",
+    "contacts": "Contacts",
+    "rights": "All Rights Reserved.",
+    "shipping": "🚚 Worldwide Shipping 5-10 days"
+  },
+  "common": {
+    "back": "Back",
+    "back_to_shop": "Back to Shop",
+    "loading": "Loading...",
+    "share": "Share",
+    "details": "Details",
+    "photo": "Photo",
+    "select_variant": "Select Variant",
+    "add_to_cart": "Add to Cart",
+    "adding": "Adding...",
+    "not_available": "Not Available",
+    "product_not_found": "Product not found",
+    "product_not_found_desc": "The product you are looking for does not exist or has been removed.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "blog": "Blog",
+    "sold_out": "Sold Out",
+    "view_product": "View Product"
+  },
+  "shop": {
+    "title": "Dream3D Shop",
+    "subtitle": "Your destination for unique 3D models, printed with precision and ready for your collection.",
+    "search_placeholder": "Search...",
+    "filter_all": "All",
+    "filter_pla": "PLA",
+    "filter_resin": "Resin",
+    "no_products": "No products found",
+    "coming_soon": "Coming Soon!",
+    "no_products_desc": "Try searching for something else or change filters.",
+    "coming_soon_desc": "We are working hard to fill the shop with incredible 3D models. Come back soon!",
+    "request_commission": "Request a Custom Commission"
+  },
+  "commission": {
+    "title": "Bring Your Ideas to Life",
+    "subtitle": "Upload an existing 3D file to preview it, or contact us directly for a custom quote.",
+    "upload_title": "Test your 3D file",
+    "upload_desc": "Upload a .glb or .gltf file to see it in the viewer alongside.",
+    "quote_title": "Request a Quote",
+    "name": "Name",
+    "name_placeholder": "Your name",
+    "email": "Email",
+    "email_placeholder": "your@email.com",
+    "desc": "Project Description",
+    "desc_placeholder": "Describe what you would like to print...",
+    "send": "Send Request",
+    "sending": "Sending...",
+    "success_title": "Thank you",
+    "success_msg": "Your quote request has been sent successfully.",
+    "error_msg": "There was a problem sending. Please try again later.",
+    "error_conn": "Connection error.",
+    "fill_all": "Please fill in all fields.",
+    "viewer": {
+      "loading": "Loading model...",
+      "error_load": "Unable to load 3D file.",
+      "upload_here": "Upload your file here",
+      "drag_drop": "Drag or select a .glb or .gltf file to view it",
+      "ai_generated": "AI GENERATED",
+      "controls": "Drag to rotate • Scroll to zoom"
+    },
+    "payment_title": "Payment Area",
+    "payment_desc": "Received a quote? Complete your deposit or balance payment securely and quickly.",
+    "pay_now": "Proceed to Secure Payment",
+    "payment_amount": "PAYMENT AMOUNT",
+    "payment_success_title": "Payment Received!",
+    "payment_success_desc": "Thank you! The transaction was successful. We have sent a receipt to your email.",
+    "new_payment": "Make another payment"
+  },
+  "product": {
+    "shipping_fast": "Fast Shipping",
+    "quality_guaranteed": "Quality Guaranteed",
+    "support_247": "24/7 Support",
+    "easy_return": "Easy Return"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty_title": "Your cart is empty",
+    "empty_desc": "It seems you haven't added anything yet.",
+    "start_shopping": "Start Shopping",
+    "items": "items",
+    "summary_title": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shipping_calculated": "(Calculated at checkout)",
+    "total": "Total",
+    "checkout": "Proceed to Secure Checkout",
+    "secure_payment": "Secure payment handled by Shopify"
+  },
+  "about": {
+    "title": "Who is",
+    "desc1": "We are a team of passionate makers, engineers, and designers with a common mission: to make 3D printing accessible and high quality for everyone.",
+    "desc2": "Born in 2024, we turned our passion into a profession, specializing in creating unique objects, functional prototypes, and collectible miniatures. We use only premium materials and the best technologies available on the market.",
+    "experience": "Years of Experience",
+    "clients": "Satisfied Clients"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "email": "Email",
+    "email_desc": "For general information",
+    "phone": "Phone",
+    "phone_desc": "Mon-Fri, 9:00 - 18:00",
+    "location": "Location",
+    "location_desc": "Visit us (by appointment)",
+    "form_title": "Send us a message",
+    "name": "Name",
+    "name_placeholder": "John Doe",
+    "email_placeholder": "john@email.com",
+    "message": "Message",
+    "message_placeholder": "Write your message here...",
+    "submit": "Send Message"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "This policy describes how we collect, use, and share your personal data when you visit or make a purchase on Dream3D.",
+    "section1_title": "1. Personal information we collect",
+    "section1_content": "When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies installed on your device.",
+    "section2_title": "2. How do we use your personal information?",
+    "section2_content": "We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).",
+    "section3_title": "3. Sharing your personal information",
+    "section3_content": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store.",
+    "contact_title": "Contact us",
+    "contact_content": "For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at areainfodream3d@gmail.com."
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "intro": "This website is operated by Dream3D. Throughout the site, the terms \"we\", \"us\" and \"our\" refer to Dream3D.",
+    "section1_title": "1. Online Store Terms",
+    "section1_content": "By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence.",
+    "section2_title": "2. General Conditions",
+    "section2_content": "We reserve the right to refuse service to anyone for any reason at any time.",
+    "section3_title": "3. Modifications to the Service and Prices",
+    "section3_content": "Prices for our products are subject to change without notice. We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.",
+    "contact_title": "Contact Information",
+    "contact_content": "Questions about the Terms of Service should be sent to us at areainfodream3d@gmail.com."
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "shop": "Shop",
+    "commissions": "Aufträge",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "quote": "Angebot anfordern"
+  },
+  "home": {
+    "hero": {
+      "title": "WIR FORMEN",
+      "subtitle": "IHRE IDEEN",
+      "description": "Hochwertiger 3D-Druck in PLA und Harz. Vom Prototyping bis zur Endproduktion.",
+      "cta_products": "Produkte entdecken",
+      "cta_commission": "Individuelles Projekt"
+    },
+    "categories": {
+      "title": "Unsere",
+      "subtitle": "Lösungen",
+      "pla": {
+        "title": "Öko-PLA",
+        "desc": "Vielseitiger und widerstandsfähiger Biokunststoff für jeden Einsatz."
+      },
+      "resin": {
+        "title": "HD-Harz",
+        "desc": "Unglaubliche Details für Miniaturen und Schmuck."
+      },
+      "commission": {
+        "title": "Auf Auftrag",
+        "desc": "Wir realisieren Ihr Projekt aus der STL-Datei."
+      }
+    },
+    "features": {
+      "title": "Warum uns wählen",
+      "rapid_prod": {
+        "title": "Schnelle Produktion",
+        "desc": "Von der Datei zum Objekt in Rekordzeit, ohne Kompromisse bei der Qualität."
+      },
+      "quality": {
+        "title": "Handwerkliche Qualität",
+        "desc": "Jeder Druck wird manuell geprüft, um Perfektion zu garantieren."
+      },
+      "tech": {
+        "title": "Fortschrittliche Technologie",
+        "desc": "Wir verwenden die besten 3D-Drucker für präzise und schnelle Ergebnisse."
+      },
+      "global_ship": {
+        "title": "Weltweiter Versand",
+        "desc": "Sichere und verfolgte Lieferungen weltweit."
+      }
+    },
+    "cta": {
+      "title_part1": "Haben Sie eine Idee, wissen aber nicht, wie Sie sie",
+      "title_part2": "umsetzen sollen?",
+      "desc": "Wir verwandeln Ihre Vorstellung in reale Objekte mit 3D-Druck von",
+      "desc_highlight": "höchster Qualität",
+      "button": "Angebot anfordern ✨"
+    }
+  },
+  "footer": {
+    "description": "Wir formen Ihre Ideen mit der besten 3D-Drucktechnologie. Öko-PLA und High-Definition-Harz.",
+    "resources": "Ressourcen",
+    "legal": "Rechtliches",
+    "contacts": "Kontakte",
+    "rights": "Alle Rechte vorbehalten.",
+    "shipping": "🚚 Weltweiter Versand 5-10 Tage"
+  },
+  "common": {
+    "back": "Zurück",
+    "back_to_shop": "Zurück zum Shop",
+    "loading": "Laden...",
+    "share": "Teilen",
+    "details": "Details",
+    "photo": "Foto",
+    "select_variant": "Variante wählen",
+    "add_to_cart": "In den Warenkorb",
+    "adding": "Hinzufügen...",
+    "not_available": "Nicht verfügbar",
+    "product_not_found": "Produkt nicht gefunden",
+    "product_not_found_desc": "Das gesuchte Produkt existiert nicht oder wurde entfernt.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "blog": "Blog",
+    "sold_out": "Ausverkauft",
+    "view_product": "Produkt ansehen"
+  },
+  "shop": {
+    "title": "Dream3D Shop",
+    "subtitle": "Ihr Ziel für einzigartige 3D-Modelle, präzise gedruckt und bereit für Ihre Sammlung.",
+    "search_placeholder": "Suchen...",
+    "filter_all": "Alle",
+    "filter_pla": "PLA",
+    "filter_resin": "Harz",
+    "no_products": "Keine Produkte gefunden",
+    "coming_soon": "Demnächst!",
+    "no_products_desc": "Versuchen Sie, nach etwas anderem zu suchen oder ändern Sie die Filter.",
+    "coming_soon_desc": "Wir arbeiten hart daran, den Shop mit unglaublichen 3D-Modellen zu füllen. Kommen Sie bald wieder!",
+    "request_commission": "Individuellen Auftrag anfordern"
+  },
+  "commission": {
+    "title": "Bringen Sie Ihre Ideen zum Leben",
+    "subtitle": "Laden Sie eine vorhandene 3D-Datei hoch, um sie in der Vorschau anzuzeigen, oder kontaktieren Sie uns direkt für ein individuelles Angebot.",
+    "upload_title": "Testen Sie Ihre 3D-Datei",
+    "upload_desc": "Laden Sie eine .glb- oder .gltf-Datei hoch, um sie im Viewer nebenan zu sehen.",
+    "quote_title": "Angebot anfordern",
+    "name": "Name",
+    "name_placeholder": "Ihr Name",
+    "email": "E-Mail",
+    "email_placeholder": "ihre@email.com",
+    "desc": "Projektbeschreibung",
+    "desc_placeholder": "Beschreiben Sie, was Sie drucken möchten...",
+    "send": "Anfrage senden",
+    "sending": "Senden...",
+    "success_title": "Danke",
+    "success_msg": "Ihre Angebotsanfrage wurde erfolgreich gesendet.",
+    "error_msg": "Es gab ein Problem beim Senden. Bitte versuchen Sie es später erneut.",
+    "error_conn": "Verbindungsfehler.",
+    "fill_all": "Bitte füllen Sie alle Felder aus.",
+    "viewer": {
+      "loading": "Modell wird geladen...",
+      "error_load": "3D-Datei konnte nicht geladen werden.",
+      "upload_here": "Laden Sie Ihre Datei hier hoch",
+      "drag_drop": "Ziehen Sie eine .glb- oder .gltf-Datei hierher oder wählen Sie sie aus, um sie anzuzeigen",
+      "ai_generated": "KI-GENERIERT",
+      "controls": "Ziehen zum Drehen • Scrollen zum Zoomen"
+    },
+    "payment_title": "Zahlungsbereich",
+    "payment_desc": "Haben Sie ein Angebot erhalten? Schließen Sie Ihre Anzahlung oder Restzahlung sicher und schnell ab.",
+    "pay_now": "Zur sicheren Zahlung",
+    "payment_amount": "ZAHLUNGSBETRAG",
+    "payment_success_title": "Zahlung erhalten!",
+    "payment_success_desc": "Danke! Die Transaktion war erfolgreich. Wir haben eine Quittung an Ihre E-Mail gesendet.",
+    "new_payment": "Weitere Zahlung tätigen"
+  },
+  "product": {
+    "shipping_fast": "Schneller Versand",
+    "quality_guaranteed": "Qualität garantiert",
+    "support_247": "24/7 Support",
+    "easy_return": "Einfache Rückgabe"
+  },
+  "cart": {
+    "title": "Ihr Warenkorb",
+    "empty_title": "Ihr Warenkorb ist leer",
+    "empty_desc": "Es scheint, als hätten Sie noch nichts hinzugefügt.",
+    "start_shopping": "Einkaufen beginnen",
+    "items": "Artikel",
+    "summary_title": "Bestellübersicht",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versand",
+    "shipping_calculated": "(Wird an der Kasse berechnet)",
+    "total": "Gesamt",
+    "checkout": "Zur sicheren Kasse",
+    "secure_payment": "Sichere Zahlung über Shopify"
+  },
+  "about": {
+    "title": "Wer ist",
+    "desc1": "Wir sind ein Team von leidenschaftlichen Makern, Ingenieuren und Designern mit einer gemeinsamen Mission: 3D-Druck für alle zugänglich und qualitativ hochwertig zu machen.",
+    "desc2": "Im Jahr 2024 gegründet, haben wir unsere Leidenschaft zum Beruf gemacht und uns auf die Herstellung einzigartiger Objekte, funktionaler Prototypen und sammelbarer Miniaturen spezialisiert. Wir verwenden nur hochwertige Materialien und die besten auf dem Markt erhältlichen Technologien.",
+    "experience": "Jahre Erfahrung",
+    "clients": "Zufriedene Kunden"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "email": "E-Mail",
+    "email_desc": "Für allgemeine Informationen",
+    "phone": "Telefon",
+    "phone_desc": "Mo-Fr, 9:00 - 18:00",
+    "location": "Standort",
+    "location_desc": "Besuchen Sie uns (nach Vereinbarung)",
+    "form_title": "Senden Sie uns eine Nachricht",
+    "name": "Name",
+    "name_placeholder": "Max Mustermann",
+    "email_placeholder": "max@email.com",
+    "message": "Nachricht",
+    "message_placeholder": "Schreiben Sie hier Ihre Nachricht...",
+    "submit": "Nachricht senden"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "intro": "Diese Richtlinie beschreibt, wie wir Ihre personenbezogenen Daten erfassen, verwenden und weitergeben, wenn Sie Dream3D besuchen oder dort einkaufen.",
+    "section1_title": "1. Personenbezogene Daten, die wir sammeln",
+    "section1_content": "Wenn Sie die Website besuchen, erfassen wir automatisch bestimmte Informationen über Ihr Gerät, einschließlich Informationen über Ihren Webbrowser, Ihre IP-Adresse, Ihre Zeitzone und einige der auf Ihrem Gerät installierten Cookies.",
+    "section2_title": "2. Wie verwenden wir Ihre personenbezogenen Daten?",
+    "section2_content": "Wir verwenden die Bestellinformationen, die wir allgemein sammeln, um alle über die Website aufgegebenen Bestellungen auszuführen (einschließlich der Verarbeitung Ihrer Zahlungsinformationen, der Organisation des Versands und der Bereitstellung von Rechnungen und/oder Auftragsbestätigungen).",
+    "section3_title": "3. Weitergabe Ihrer personenbezogenen Daten",
+    "section3_content": "Wir geben Ihre personenbezogenen Daten an Dritte weiter, damit wir Ihre personenbezogenen Daten wie oben beschrieben verwenden können. Zum Beispiel verwenden wir Shopify, um unseren Online-Shop zu betreiben.",
+    "contact_title": "Kontaktieren Sie uns",
+    "contact_content": "Für weitere Informationen zu unseren Datenschutzpraktiken, wenn Sie Fragen haben oder eine Beschwerde einreichen möchten, kontaktieren Sie uns bitte per E-Mail unter areainfodream3d@gmail.com."
+  },
+  "terms": {
+    "title": "Allgemeine Geschäftsbedingungen",
+    "intro": "Diese Website wird von Dream3D betrieben. Auf der gesamten Website beziehen sich die Begriffe \"wir\", \"uns\" und \"unser\" auf Dream3D.",
+    "section1_title": "1. Bedingungen für den Online-Shop",
+    "section1_content": "Durch die Zustimmung zu diesen Nutzungsbedingungen erklären Sie, dass Sie in Ihrem Wohnsitzstaat oder Ihrer Wohnsitzprovinz mindestens volljährig sind.",
+    "section2_title": "2. Allgemeine Bedingungen",
+    "section2_content": "Wir behalten uns das Recht vor, jedem aus irgendeinem Grund und zu jeder Zeit den Service zu verweigern.",
+    "section3_title": "3. Änderungen am Service und den Preisen",
+    "section3_content": "Die Preise für unsere Produkte können ohne vorherige Ankündigung geändert werden. Wir behalten uns das Recht vor, den Service (oder Teile oder Inhalte davon) jederzeit ohne vorherige Ankündigung zu ändern oder einzustellen.",
+    "contact_title": "Kontaktinformationen",
+    "contact_content": "Fragen zu den Nutzungsbedingungen richten Sie bitte an uns unter areainfodream3d@gmail.com."
+  }
+}

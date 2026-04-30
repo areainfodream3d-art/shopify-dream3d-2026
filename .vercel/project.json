@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_zcJYKgIL99SmF8ya5vjqZAnxjQKH",
+  "orgId": "team_lwfgm5mlV8r3dPcYVPdjwB5D",
+  "projectName": "trae_skfztxij",
+  "settings": {
+    "createdAt": 1771340340204,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist",
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}

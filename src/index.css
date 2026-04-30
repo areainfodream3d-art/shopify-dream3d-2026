@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-dark-bg text-white font-sans antialiased;
+  }
+}
+
+@layer components {
+  .btn-neon {
+    @apply px-6 py-3 rounded-full bg-gradient-to-r from-neon-blue to-neon-electric text-black font-bold 
+           hover:shadow-[0_0_20px_rgba(0,212,255,0.5)] transition-all duration-300 transform hover:scale-105;
+  }
+  
+  .card-glass {
+    @apply bg-dark-surface/80 backdrop-blur-md border border-dark-surfaceLight rounded-xl p-6;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+@keyframes build-layer {
+  0% {
+    clip-path: inset(100% 0 0 0);
+  }
+  10%, 90% {
+    clip-path: inset(0 0 0 0);
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+@keyframes scan-line {
+  0% {
+    bottom: 0;
+    opacity: 1;
+  }
+  10% {
+    bottom: 100%;
+    opacity: 0;
+  }
+  100% {
+    bottom: 100%;
+    opacity: 0;
+  }
+}
